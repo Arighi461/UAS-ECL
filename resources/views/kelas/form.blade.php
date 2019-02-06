@@ -6,7 +6,7 @@
     <section class="content-header">
       <h1>
         {{ empty($result) ? 'Tambah' : 'Edit' }} Data Kelas
-        <small>SMAN 4 Bandung</small>
+        <small>SMK 4 Negeri Bandung</small>
       </h1>
       <ol class="breadcrumb">
         <li><a href="{{ url('/') }}"><i class="fa fa-dashboard"></i>Data Kelas</a></li>
